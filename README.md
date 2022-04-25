@@ -1,3 +1,9 @@
+# Why is this forked?
+
+The engine requirement of the original repo is causing install failures on npm v7+. They have a [PR open to fix it](https://github.com/chenqingspring/react-lottie/pull/94) since 2019 so this repo is just really outdated.
+
+This fork fixes the issue with the engine. The repo hasn't received commits since 2018 so we have no risk of missing anything upstream.
+
 # Lottie Animation View for React ([Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
 
 [![npm version](https://badge.fury.io/js/react-lottie.svg)](http://badge.fury.io/js/react-lottie)
